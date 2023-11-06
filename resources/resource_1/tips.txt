@@ -1,0 +1,192 @@
+An immersive Open Source environment using Godot 教育
+Teaching Math with the help of Virtual Reality 教育，还有其他领域的索引
+Virtual Zoom: Augmented Reality on a Mobile Device (2009)
+History and Future of Tracking for Mobile Phone Augmented Reality
+Virtual Reality Forge: Pattern-Oriented Authoring of Virtual Reality Nuggets
+A Comparison between Virtual Reality and Augmented Reality on Upper-limb Prosthesis Control
+Understanding virtual reality: Interface, application, and design
+VR/AR Immersive Communication: Caching, Edge Computing, and Transmission Trade-Offs
+Ready Player One: UAV-Clustering-Based Multi-Task Offloading for Vehicular VR/AR Gaming
+The Research of VR and AR Technology on Cultural Communication
+The First Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)
+Mobile inside-out VR tracking, now available on your phone
+Utilization of AR Technology for Doctor-patient Communication
+Virtual reality and augmented reality for education: panel
+FACE DETECTION IN VR GAMES
+Intelligent Wearable Virtual Reality (VR) Gaming Controller for People with Motor Disabilities
+Evaluating Menu Techniques for Handheld AR with a Smartphone & Mid-Air Pen
+New Interactive VR/AR Media: A Challenge Worth to Address
+The Role of AR and VR Technologies in Education Developments: Opportunities and Challenges
+
+challenge: https://www.zhihu.com/question/384245183
+https://www.zhihu.com/question/39947219
+
+图片
+https://www.zhihu.com/question/41438741
+https://nb.zol.com.cn/775/7750052.html
+https://baijiahao.baidu.com/s?id=1605254165790441852&wfr=spider&for=pc
+https://techcrunch.com/2020/03/30/niantic-is-updating-pokemon-go-and-other-titles-to-support-indoor-gaming/
+https://zhuanlan.zhihu.com/p/28313897
+https://baijiahao.baidu.com/s?id=1621253269794371333&wfr=spider&for=pc
+
+
+Virtual and Augmented Reality for Positive Social Impact【1】
+
+Enabling Multiple Applications to Simultaneously Augment Reality: Challenges and Directions【2】
+@inproceedings{10.1145/3301293.3302362,
+author = {Lebeck, Kiron and Kohno, Tadayoshi and Roesner, Franziska},
+title = {Enabling Multiple Applications to Simultaneously Augment Reality: Challenges and Directions},
+year = {2019},
+isbn = {9781450362733},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ucd.idm.oclc.org/10.1145/3301293.3302362},
+doi = {10.1145/3301293.3302362},
+abstract = {Augmented reality (AR) platforms are evolving to support immersive 3D experiences.
+Most modern AR platforms support only a single immersive app at a time, but users
+may also benefit from the ability to engage with multiple apps at once. The ability
+of different apps to simultaneously augment a user's world raises critical questions:
+how might apps visually conflict with each other, and how can we design AR platforms
+to support rich behaviors while mediating conflicts? In this work, we pose and explore
+these questions, identifying means of visual conflict as well as platform design strategies
+to mediate conflicts. We then analyze state-of-the-art AR platforms (HoloLens, Magic
+Leap One, and Meta 2) to understand their trade-offs and identify unexplored gaps
+in the broader design space. Our exploration reveals key guidelines and lessons to
+inform future multi-app AR efforts.},
+booktitle = {Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications},
+pages = {81–86},
+numpages = {6},
+keywords = {augmented reality, security},
+location = {Santa Cruz, CA, USA},
+series = {HotMobile '19}
+}
+
+Virtual reality for skin exploration 
+@inproceedings{10.1145/2466816.2466822,
+author = {Vazquez-Duch\^{e}ne, Marie-Danielle and Freis, Olga and Denis, Alain and Mion, Christophe and Jeanmaire, Christine and Mine, Sol\`{e}ne and Pauly, Gilles},
+title = {Virtual Reality for Skin Exploration},
+year = {2013},
+isbn = {9781450318754},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ucd.idm.oclc.org/10.1145/2466816.2466822},
+doi = {10.1145/2466816.2466822},
+abstract = {Background: We have developed and set up the SkinExplorer™ platform, a new tool to
+exploit and rebuild serial confocal images into 3D numerical models [1, 2]. The acquisitions
+using confocal microscopy allow visualizing cutaneous components as elastic fibers,
+melanocytes and keratinocytes etc... These diversified sources of data participate
+to create numerical 3D volume models with high quality of visualization.Objective:
+To create a Virtual Reality (VR) experience, to communicate and change the perception
+of skin structures by virtualization mode.Methods: The use of ART TRACKPACK system
+and ART SMARTTRACK device allow us to valorize new sensory images for the volumetric
+rendering of the 3D skin models.Results: We increase the perception and the understanding
+of skin components organization.Conclusion: The SkinExplorer™ platform seems to be
+a promising system for exploring the skin.},
+booktitle = {Proceedings of the Virtual Reality International Conference: Laval Virtual},
+articleno = {5},
+numpages = {4},
+keywords = {human skin, virtual reality, confocal microscopy},
+location = {Laval, France},
+series = {VRIC '13}
+}
+
+Towards Collaborative Photorealistic VR Meeting Rooms
+
+YANNIER, N., KOEDINGER, K. R., AND HUDSON, S. E. 2015.
+LEARNING FROM MIXED-REALITY GAMES: IS SHAKING A TABLET
+AS EFFECTIVE AS PHYSICAL OBSERVATION? IN PROC. OF CHI’15,
+ACM. 【6】
+
+Teaching Platonic Polyhedrons through Augmented Reality and Virtual Reality【7】
+@inproceedings{10.1145/3274192.3274243,
+author = {Alves, Fernando C. C. and Diniz, Marcos M. and Rodrigues, Abel and Monteiro, Dionne C.},
+title = {Teaching Platonic Polyhedrons through Augmented Reality and Virtual Reality},
+year = {2018},
+isbn = {9781450366014},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ucd.idm.oclc.org/10.1145/3274192.3274243},
+doi = {10.1145/3274192.3274243},
+abstract = {The act of teaching has become a challenge as the content becomes more democratic
+and present in the daily life of elementary and middle school students. Mathematics
+has presented great difficulty for students to understand since several of its contents,
+of an abstract nature, need to be presented efficiently, mainly due to the lack of
+appropriate didactic resources. The present work presents three software for the teaching
+of mathematics of Plato's Polyhedrons through the visualization of their characteristics:
+faces, vertices, edges, planning and separation of faces, using technologies of Augmented
+Reality and Virtual Reality, so that the user can manipulate and view in 3D. The goal
+of software development was to provide accessible, easy-to-use tools that draw students'
+attention to help math teachers in basic education.},
+booktitle = {Proceedings of the 17th Brazilian Symposium on Human Factors in Computing Systems},
+articleno = {51},
+numpages = {4},
+keywords = {Regular polyhedrons, Geometry, Virtual Reality, Augmented Reality},
+location = {Bel\'{e}m, Brazil},
+series = {IHC 2018}
+}
+
+New Interactive VR/AR Media: A Challenge Worth to Address【9】
+@inproceedings{10.1145/3342428.3342676,
+author = {Quadrio, Giacomo and Bujari, Armir and Gaggi, Ombretta and Palazzi, Claudio E.},
+title = {New Interactive VR/AR Media: A Challenge Worth to Address},
+year = {2019},
+isbn = {9781450362610},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ucd.idm.oclc.org/10.1145/3342428.3342676},
+doi = {10.1145/3342428.3342676},
+abstract = {The advent of broadband technology has revolutionized the fruition of multimedia contents.
+Moreover, the cloud is now moving the computational load from domestic devices to
+remote servers, enabling the provisioning of new multimedia services through the Internet.
+To provide a proper user experience, a low E2E latency and a high bandwidth are both
+required. Unfortunately, this is difficult to achieve in a shared network like the
+Internet. My PhD project focuses on the study and analysis of modern network protocols
+to identify viable solutions for a suitable user experience.},
+booktitle = {Proceedings of the 5th EAI International Conference on Smart Objects and Technologies for Social Good},
+pages = {128–129},
+numpages = {2},
+keywords = {augmented reality, interactive multimedia, QUIC, virtual reality},
+location = {Valencia, Spain},
+series = {GoodTechs '19}
+}
+
+Hettinger, L. J., & Riccio, G. E. 1992. Visually induced motion sickness in virtual
+environments. Presence: Teleoperators & Virtual Environments, 1(3), 306-310.
+DOI= http://doi.org/10.1162/pres.1992.1.3.306【10】
+
+A Haptic Feedback Device Reduces Dizziness in Users Watching a Virtual Reality Video【11】
+@inproceedings{10.1145/3416797.3416806,
+author = {Wei-Te, Tsai and Chen, Chien-Hsu},
+title = {A Haptic Feedback Device Reduces Dizziness in Users Watching a Virtual Reality Video},
+year = {2020},
+isbn = {9781450388375},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi-org.ucd.idm.oclc.org/10.1145/3416797.3416806},
+doi = {10.1145/3416797.3416806},
+abstract = {The purpose of this study was to investigate methods by which to reduce the dizziness
+that people experience when watching virtual reality (VR) videos. VR technology is
+being used in increasing numbers of fields, but a phenomenon that causes dizziness
+is common. A head-mounted display (HMD) is the device generally worn for viewing virtual
+reality videos. HMDs put the screen close to the eyes, and users often feel pressure
+and also experience dizziness. The feeling of dizziness is a result of the unique
+constitution of each person. In this work, different subjects were selected based
+on their level of physical fitness. This research showed that haptic feedback caused
+by vibration during the viewing process can help reduce dizziness. We designed a vibration
+device, which was mounted on the HMD headband. Through sensing audio from the video,
+the vibrator is triggered, and the feeling of vibration is feed back to the haptic
+device. In the study, we used four vibration points, A1, A2, O1, and O2 near the areas
+of the brain affected by the detection points. The head is a highly sensitive organ
+that experiences a tactile sensation due to the vibration of the headband when an
+individual is watching a VR movie, thereby causing inconsistent visual and body perceptions.
+We found in the current research that the dizziness felt when watching VR video is
+caused by the inconsistency between visual and cognitive experiences. Typically, the
+tactile sensation can reduce such cognitive sensations and lower the degree of dizziness
+experienced by the wearer.},
+booktitle = {2020 The 4th International Conference on Education and Multimedia Technology},
+pages = {223–225},
+numpages = {3},
+keywords = {Dizziness, Vibration, Somatosensory, Virtual Reality, Haptic},
+location = {Kyoto, Japan},
+series = {ICEMT 2020}
+}

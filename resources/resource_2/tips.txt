@@ -1,0 +1,19 @@
+An immersive Open Source environment using Godot 教育
+Teaching Math with the help of Virtual Reality 教育，还有其他领域的索引
+Virtual Zoom: Augmented Reality on a Mobile Device (2009)
+History and Future of Tracking for Mobile Phone Augmented Reality
+Virtual Reality Forge: Pattern-Oriented Authoring of Virtual Reality Nuggets
+A Comparison between Virtual Reality and Augmented Reality on Upper-limb Prosthesis Control
+Understanding virtual reality: Interface, application, and design
+VR/AR Immersive Communication: Caching, Edge Computing, and Transmission Trade-Offs
+Ready Player One: UAV-Clustering-Based Multi-Task Offloading for Vehicular VR/AR Gaming
+The Research of VR and AR Technology on Cultural Communication
+The First Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)
+Mobile inside-out VR tracking, now available on your phone
+Utilization of AR Technology for Doctor-patient Communication
+Virtual reality and augmented reality for education: panel
+FACE DETECTION IN VR GAMES
+Intelligent Wearable Virtual Reality (VR) Gaming Controller for People with Motor Disabilities
+Evaluating Menu Techniques for Handheld AR with a Smartphone & Mid-Air Pen
+New Interactive VR/AR Media: A Challenge Worth to Address
+The Role of AR and VR Technologies in Education Developments: Opportunities and Challenges
